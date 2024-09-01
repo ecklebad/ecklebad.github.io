@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ecklebad.github.io/sitemap.html.gz
+Sitemap: https://ecklebad.github.io/app/sitemap.html.gz
+Sitemap: https://ecklebad.github.io/assets/sitemap.html.gz
+Sitemap: https://ecklebad.github.io/css/sitemap.html.gz
+Sitemap: https://ecklebad.github.io/includes/sitemap.html.gz
+Sitemap: https://ecklebad.github.io/item/sitemap.html.gz
+Sitemap: https://ecklebad.github.io/src/sitemap.html.gz
